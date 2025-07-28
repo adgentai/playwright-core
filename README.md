@@ -175,3 +175,4 @@ The following capabilities are not yet fully supported, but we’re actively wor
 
 This is **not an exhaustive list** — expect rapid changes as we work toward broader parity with the original feature set. You can also check [latest test results](https://playwright-full-test-report.pages.dev/) for a granular up to date list of the features that are fully supported
 # playwright-core
+# playwright-core
